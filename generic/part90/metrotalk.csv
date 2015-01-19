@@ -1,5 +1,4 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
-0,,146.010000,,0.600000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
 1,,461.025000,,0.600000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
 2,,466.025000,,0.600000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
 3,,462.375000,,0.600000,,88.5,88.5,023,NN,NFM,5.00,,,,,,
