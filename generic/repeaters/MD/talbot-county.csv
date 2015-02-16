@@ -1,2 +1,2 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
-1,K3EMD,147.045000,+,147.645000,Tone,156.7,88.5,023,NN,FM,5.00,,Trappe,,,
+1,K3EMD,147.045000,+,0.600000,Tone,156.7,88.5,023,NN,FM,5.00,,Trappe,,,,
